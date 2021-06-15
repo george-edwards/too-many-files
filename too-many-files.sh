@@ -2,7 +2,7 @@
 # writted by george x6025
 # this moves too many files in one directory to subdirectories, evenly dispersing them by the $RADIX
 #
-# to be fed list of filenames as the first argument to this script, eg: george.sh filenames.txt
+# to be fed list of filenames as the first argument to this script, eg: too-many-files.sh filenames.txt
 # get filenames using find. eg: find /path/to/files -maxdepth 1 -type f > filenames.txt
 
 # change as required:
